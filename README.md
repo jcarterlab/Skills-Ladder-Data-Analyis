@@ -1,6 +1,6 @@
 # Skills-Ladder-Data-Analyis
 
-[TIAFI's](https://www.tiafi.org/) data analysis notebooks aim to help an [NGO](https://tiafi.org/) supporting Syrian refugees in Izmir, Turkey to gather insights for their monthly reporting and better understand their operator and demographic trends. 
+TIAFI's data analysis notebooks aim to help an [NGO](https://tiafi.org/) supporting Syrian refugees in Izmir, Turkey to gather insights for their monthly reporting and better understand their operator and demographic trends. 
 <br/>
 
 The monthly reporting notebook can be found [here.](Monthly_reporting.ipynb)  
